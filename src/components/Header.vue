@@ -9,6 +9,7 @@
         <router-link class="navBtn" to="/router-example" tag="div">Router</router-link>
         <router-link class="navBtn" to="/tp" tag="div">TP</router-link>
         <router-link class="navBtn" to="/exercise" tag="div">Exercise</router-link>
+        <router-link class="navBtn" to="/exercise2" tag="div">Exercise 2</router-link>
     </div>
 </template>
 
