@@ -21,6 +21,12 @@
           <li>
             Oops ! I forget the milk, add this ingredient when you click on a button.
           </li>
+          <li>
+            Blablabla do this 
+          </li>
+          <li>
+            Blablabla do that 
+          </li>
         </ol>
       </div>
     </div>
@@ -28,6 +34,7 @@
 
     <div class='exerciseResultPart'>
       <!-- TODO -->
+
     </div>
   </div>
 </template>
