@@ -1,6 +1,6 @@
 <template>
   <div class="exercise2">
-    EXO 2
+    EXO 2 - Example for github
   </div>
 </template>
 
